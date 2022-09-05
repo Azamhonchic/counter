@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    background-color:orange;
+    margin: 50px auto;
+}
+#Plus{
+    all: unset;
+    position: absolute;
+    bottom: 550px;
+    right: 740px;
+}
+#Minus{
+    all: unset;
+    position: absolute;
+    bottom: 550px;
+    right: 700px;
+}
+#Number{
+    position: absolute;
+    bottom: 580px;
+    right: 755px;
+}
+.reload{
+    position: absolute;
+    bottom: 550px;
+    right: 780px;
+    width: 20px;
+}
+.random{
+    width: 20px;
+    position: absolute;
+    bottom: 550px;
+    right: 810px;
+}
